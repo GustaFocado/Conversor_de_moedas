@@ -1,4 +1,4 @@
-# Conversor_de_moedas
+# Conversor de moedas
 Este projeto foi desenvolvido como parte dos cursos da Alura para aprender sobre desenvolvimento Java, APIs RESTful e manipulação de JSON com Gson. O projeto permite converter valores entre diferentes moedas usando a API ExchangeRate-API, além de fornecer funcionalidades adicionais como histórico de conversões e registro em log.
 
 ## Funcionalidades
